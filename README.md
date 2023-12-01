@@ -1,2 +1,3 @@
 # mystart
-my first on github
+first on github
+starting today
